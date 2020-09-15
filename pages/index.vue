@@ -9,15 +9,14 @@
         My site to work on various projects
       </h2>
       <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
+        <nuxt-link
+          to="/cc"
           class="button--green"
         >
-          Documentation
-        </a>
+          Vue Compare Image
+        </nuxt-link>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/daletom/vuecompare-testing"
           target="_blank"
           class="button--grey"
         >

@@ -27,7 +27,7 @@ export default {
   /*
   ** Plugins to load before mounting the App
   */
-  plugins: [ { src: '~plugins/vue-compare-image', mode: "client" }
+  plugins: [ { src: '~plugins/vue-compare-image', ssr: false }
   ],
   /*
   ** Nuxt.js dev-modules

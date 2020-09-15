@@ -1,0 +1,20 @@
+{
+  "name": "tomdale",
+  "version": "1.0.0",
+  "description": "My site to work on various projects",
+  "author": "Tom Dale",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "css-element-queries": "^1.2.3",
+    "nuxt": "^2.0.0",
+    "vue-compare-image": "^0.2.0"
+  },
+  "devDependencies": {}
+}
